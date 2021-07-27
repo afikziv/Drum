@@ -1,5 +1,4 @@
 
-//document.querySelectorAll("button").addEventListener("click",handleClick);
 
 
 //Detecting Button Press
