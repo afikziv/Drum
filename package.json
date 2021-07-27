@@ -1,0 +1,16 @@
+{
+  "name": "Drum",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d Drum"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://afikziv.github.io/drum/",
+  "dependencies": {
+    "gh-pages": "^3.2.3"
+  }
+}
